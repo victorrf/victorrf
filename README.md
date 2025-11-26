@@ -4,16 +4,13 @@ Bacharel em Ciência da Computação, busco aperfeiçoar minhas habilidades em c
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
  <h2><b>Estatísticas 📈</b></h2>
 
- <!-- GitHub Readme Stats - main stats card -->
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues)
- 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=victorrf&show_icons=true&count_private=true&include_all_commits=true&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrf&layout=compact&langs_count=8" />
-</p>
+<div align="center">
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=victorrf&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorrf&layout=compact&theme=tokyonight&hide_border=true)
+  
+  ![GitHub Streak](https://streak-stats.demolab.com?user=victorrf&theme=tokyonight&hide_border=true)
+</div>
 
 ________________________________________________________________________________________________________________________________________________________
 <h2><b>Foco 🎯</b></h2>
