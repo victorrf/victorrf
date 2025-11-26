@@ -3,11 +3,21 @@
 Bacharel em Ciência da Computação, busco aperfeiçoar minhas habilidades em computação com foco principalmente em desenvolvimento web, tenho curisidade em tecnologia de inteligência artificial e amante de jogos eletrônicos. Busco oportunidades para aplicar minha curiosidade e criatividade!
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
  <h2><b>Estatísticas 📈</b></h2>
- <div>
-   <a href="https://github.com/victorrf">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victorrf&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrf&layout=compact&langs_count=6&theme=radical"/>
-    </div>
+<div>
+ <!-- GitHub Readme Stats - main stats card -->
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&count_private=true&include_all_commits=true&hide=prs,issues)
+ 
+  <p align="center">
+    <a href="https://github.com/victorrf">
+      <img src="https://github-readme-stats.vercel.app/api?username=victorrf&show_icons=true&count_private=true&include_all_commits=true&theme=default" alt="Victorrf's GitHub Stats" />
+    </a>
+  </p>
+
+    
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorrf&layout=compact&langs_count=8" alt="Top Languages" />
+  </p>
+</div>
 ________________________________________________________________________________________________________________________________________________________
 <h2><b>Foco 🎯</b></h2>
 
