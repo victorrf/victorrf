@@ -10,7 +10,7 @@ ________________________________________________________________________________
   <img height="200rem" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=victorrf&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs"/>
   
 </div>
-________________________________________________________________________________________________________________________________________________________
+
 
 <h2><b>Foco 🎯</b></h2>
 
