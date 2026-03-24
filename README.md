@@ -1,6 +1,6 @@
 <h1><b>Bem-vindo(a) ao perfil de Victor Reis Ferreira 👨🏻‍💻</b></h1>
 
-Bacharel em Ciência da Computação, busco aperfeiçoar minhas habilidades em computação com foco principalmente em desenvolvimento web, tenho curisidade em tecnologia de inteligência artificial e amante de jogos eletrônicos. Busco oportunidades para aplicar minha curiosidade e criatividade!
+Bacharel em Ciência da Computação, busco aperfeiçoar minhas habilidades em computação, tenho curisidade em tecnologia de inteligência artificial e amante de jogos eletrônicos. Busco oportunidades para aplicar minha curiosidade e criatividade!
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
  <h2><b>Estatísticas 📈</b></h2>
 
