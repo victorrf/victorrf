@@ -1,6 +1,6 @@
 <h1><b>Bem-vindo(a) ao perfil de Victor Reis Ferreira 👨🏻‍💻</b></h1>
 
-Bacharel em Ciência da Computação, busco aperfeiçoar minhas habilidades em computação, tenho curisidade em tecnologia de inteligência artificial e amante de jogos eletrônicos. Busco oportunidades para aplicar minha curiosidade e criatividade!
+Bacharel em Ciência da Computação, busco aperfeiçoar minhas habilidades em computação, tenho curiosidade em tecnologia de inteligência artificial e amante de jogos eletrônicos. Busco oportunidades para aplicar meu conhecimento e criatividade!
 ________________________________________________________________________________________________________________________________________________________________________________________________________________________
  <h2><b>Estatísticas 📈</b></h2>
 
@@ -14,24 +14,22 @@ ________________________________________________________________________________
 
 <h2><b>Foco 🎯</b></h2>
 
-- Ser um programador versátil
-- Aprimorar continuamente minhas habilidades de programação
+- Ser um trabalhador versátil
+- Aprimorar continuamente minhas habilidades em computação
 - Conhecer novas tecnologias e seus usos
 _________________________________________________________________________________________________________________________________________________________________________________________________________________________
  <h2><b>Habilidades 💻</b></h2>  
 <div style="display: inline_block"><br>
-   <img align="center" max-width="100%" src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-   <img align="center" max-width="100%" src="https://img.shields.io/badge/css-%23264de4?style=for-the-badge&logo=css&logoColor=white" />
-   <img align="center" max-width="100%" src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-   <img align="center" max-width="100%" src="https://img.shields.io/badge/ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white" />            
-   <img align="center" max-width="100%" src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white" />
-   <img align="center" max-width="100%" src="https://img.shields.io/badge/c%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus" />
-   <img align="center" max-width="100%" src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white" /> 
-   <img align="center" max-width="100%" src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white" />
-   <img align="center" max-width="100%" src="https://img.shields.io/badge/github-%23181717?style=for-the-badge&logo=github" />
-   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
-   <img align="center" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-   <img align="center" height="40" width="40" src="https://img.icons8.com/fluency/48/microsoft-copilot.png" />
+   <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.18.0/icons/amazonwebservices/amazonwebservices-plain.svg" />
+   <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.18.0/icons/html5/html5-plain-wordmark.svg" />
+   <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.18.0/icons/css3/css3-plain-wordmark.svg" />
+   <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.18.0/icons/javascript/javascript-plain.svg" />
+   <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.18.0/icons/ruby/ruby-plain-wordmark.svg" />            
+   <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.18.0/icons/python/python-original-wordmark.svg" />
+   <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.18.0/icons/cplusplus/cplusplus-plain.svg" />
+   <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.18.0/icons/java/java-plain-wordmark.svg" />
+   <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.18.0/icons/mysql/mysql-plain-wordmark.svg" /> 
+   <img align="center" height="60" width="60" src="https://github.com/devicons/devicon/blob/v2.18.0/icons/git/git-plain-wordmark.svg" />
 </div>
 
  
@@ -40,4 +38,4 @@ ________________________________________________________________________________
  <h2><b>Contatos 🌐</b></h2>
 
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:victorreisferreira98@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victorreisferreira/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-reis-cloud/)
